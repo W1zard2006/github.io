@@ -3,8 +3,8 @@ var isRightsEnabled = false; // Права
 var isCovidCertificateEnabled = true; // COVID-сертификат
 
 // Общее
-var birthdate = "22.12.2005"; // Дата рождения
-var fullname = "Ангелов Владислав Юрійович" // ФИО
+var birthdate = "15.11.2005"; // Дата рождения
+var fullname = "Ґрек Артур Максимович" // ФИО
 var name = "Владислав" // Имя
 
 // Паспорт
