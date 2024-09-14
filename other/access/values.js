@@ -5,13 +5,13 @@ var isCovidCertificateEnabled = true; // COVID-сертификат
 // Общее
 var birthdate = "15.11.2005"; // Дата рождения
 var fullname = "Ґрек Артур Максимович" // ФИО
-var name = "Владислав" // Имя
+var name = "Артур" // Имя
 
 // Паспорт
-var passport_id = "126526789" // Номер паспорта
+var passport_id = "326526789" // Номер паспорта
 
 // КПП
-var kpp_id = "126526789" // ИНН
+var kpp_id = "326526789" // ИНН
 
 // Права
 var rights_valid_until = "18.01.2034" // Права "Дійсні до"
